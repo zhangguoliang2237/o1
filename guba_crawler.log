@@ -1,0 +1,53 @@
+2025-03-28 16:24:33,090 - ERROR - JSON解析失败: Expecting value: line 1 column 1 (char 0) - 原始响应: 
+2025-03-28 16:24:33,091 - WARNING - 第1页无有效数据
+2025-03-28 16:24:33,145 - ERROR - JSON解析失败: Expecting value: line 1 column 1 (char 0) - 原始响应: 
+2025-03-28 16:24:33,145 - WARNING - 第2页无有效数据
+2025-03-28 16:24:33,208 - ERROR - JSON解析失败: Expecting value: line 1 column 1 (char 0) - 原始响应: 
+2025-03-28 16:24:33,210 - WARNING - 第3页无有效数据
+2025-03-28 16:34:15,195 - ERROR - JSON解析失败: 'NoneType' object has no attribute 'group'
+响应内容: 
+2025-03-28 16:34:15,195 - WARNING - 第1页无有效数据
+2025-03-28 16:34:15,249 - ERROR - JSON解析失败: 'NoneType' object has no attribute 'group'
+响应内容: 
+2025-03-28 16:34:15,249 - WARNING - 第2页无有效数据
+2025-03-28 16:34:15,313 - ERROR - JSON解析失败: 'NoneType' object has no attribute 'group'
+响应内容: 
+2025-03-28 16:34:15,313 - WARNING - 第3页无有效数据
+2025-03-28 16:36:25,944 - ERROR - JSON解析失败: 'NoneType' object has no attribute 'group'
+响应内容: 
+2025-03-28 16:36:25,945 - WARNING - 第1页无有效数据
+2025-03-28 16:36:26,001 - ERROR - JSON解析失败: 'NoneType' object has no attribute 'group'
+响应内容: 
+2025-03-28 16:36:26,001 - WARNING - 第2页无有效数据
+2025-03-28 16:36:26,056 - ERROR - JSON解析失败: 'NoneType' object has no attribute 'group'
+响应内容: 
+2025-03-28 16:36:26,056 - WARNING - 第3页无有效数据
+2025-03-28 16:37:01,474 - ERROR - JSON解析失败: 'NoneType' object has no attribute 'group'
+响应内容: 
+2025-03-28 16:37:01,474 - WARNING - 第1页无有效数据
+2025-03-28 16:37:01,535 - ERROR - JSON解析失败: 'NoneType' object has no attribute 'group'
+响应内容: 
+2025-03-28 16:37:01,535 - WARNING - 第2页无有效数据
+2025-03-28 16:37:01,594 - ERROR - JSON解析失败: 'NoneType' object has no attribute 'group'
+响应内容: 
+2025-03-28 16:37:01,595 - WARNING - 第3页无有效数据
+2025-03-28 16:46:25,977 - DEBUG - Starting new HTTPS connection (1): guba.eastmoney.com:443
+2025-03-28 16:46:26,224 - DEBUG - https://guba.eastmoney.com:443 "GET /list,600519.html HTTP/1.1" 200 None
+2025-03-28 16:46:26,392 - DEBUG - https://guba.eastmoney.com:443 "GET /interface/GetData.aspx?cb=jQuery33101743151586339_4864&pn=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fields=f12%2Cf14%2Cf62%2Cf128%2Cf136%2Cf124%2Cf120%2Cf121&_=1743151586339&secid=1.600519&beg=1742832000&end=1743091200 HTTP/1.1" 200 0
+2025-03-28 16:46:26,393 - WARNING - 响应内容非JSON格式
+2025-03-28 16:46:26,449 - DEBUG - https://guba.eastmoney.com:443 "GET /interface/GetData.aspx?cb=jQuery33101743151586339_4864&pn=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fields=f12%2Cf14%2Cf62%2Cf128%2Cf136%2Cf124%2Cf120%2Cf121&_=1743151586339&secid=1.600519&beg=1742832000&end=1743091200 HTTP/1.1" 200 0
+2025-03-28 16:46:26,449 - WARNING - 响应内容非JSON格式
+2025-03-28 16:46:26,506 - DEBUG - https://guba.eastmoney.com:443 "GET /interface/GetData.aspx?cb=jQuery33101743151586339_4864&pn=1&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fields=f12%2Cf14%2Cf62%2Cf128%2Cf136%2Cf124%2Cf120%2Cf121&_=1743151586339&secid=1.600519&beg=1742832000&end=1743091200 HTTP/1.1" 200 0
+2025-03-28 16:46:26,506 - WARNING - 响应内容非JSON格式
+2025-03-28 16:46:26,561 - DEBUG - https://guba.eastmoney.com:443 "GET /interface/GetData.aspx?cb=jQuery33101743151586339_4864&pn=2&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fields=f12%2Cf14%2Cf62%2Cf128%2Cf136%2Cf124%2Cf120%2Cf121&_=1743151586507&secid=1.600519&beg=1742832000&end=1743091200 HTTP/1.1" 200 0
+2025-03-28 16:46:26,562 - WARNING - 响应内容非JSON格式
+2025-03-28 16:46:26,619 - DEBUG - https://guba.eastmoney.com:443 "GET /interface/GetData.aspx?cb=jQuery33101743151586339_4864&pn=2&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fields=f12%2Cf14%2Cf62%2Cf128%2Cf136%2Cf124%2Cf120%2Cf121&_=1743151586507&secid=1.600519&beg=1742832000&end=1743091200 HTTP/1.1" 200 0
+2025-03-28 16:46:26,620 - WARNING - 响应内容非JSON格式
+2025-03-28 16:46:26,673 - DEBUG - https://guba.eastmoney.com:443 "GET /interface/GetData.aspx?cb=jQuery33101743151586339_4864&pn=2&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fields=f12%2Cf14%2Cf62%2Cf128%2Cf136%2Cf124%2Cf120%2Cf121&_=1743151586507&secid=1.600519&beg=1742832000&end=1743091200 HTTP/1.1" 200 0
+2025-03-28 16:46:26,674 - WARNING - 响应内容非JSON格式
+2025-03-28 16:46:26,732 - DEBUG - https://guba.eastmoney.com:443 "GET /interface/GetData.aspx?cb=jQuery33101743151586339_4864&pn=3&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fields=f12%2Cf14%2Cf62%2Cf128%2Cf136%2Cf124%2Cf120%2Cf121&_=1743151586674&secid=1.600519&beg=1742832000&end=1743091200 HTTP/1.1" 200 0
+2025-03-28 16:46:26,732 - WARNING - 响应内容非JSON格式
+2025-03-28 16:46:26,789 - DEBUG - https://guba.eastmoney.com:443 "GET /interface/GetData.aspx?cb=jQuery33101743151586339_4864&pn=3&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fields=f12%2Cf14%2Cf62%2Cf128%2Cf136%2Cf124%2Cf120%2Cf121&_=1743151586674&secid=1.600519&beg=1742832000&end=1743091200 HTTP/1.1" 200 0
+2025-03-28 16:46:26,789 - WARNING - 响应内容非JSON格式
+2025-03-28 16:46:26,843 - DEBUG - https://guba.eastmoney.com:443 "GET /interface/GetData.aspx?cb=jQuery33101743151586339_4864&pn=3&np=1&ut=bd1d9ddb04089700cf9c27f6f7426281&fltt=2&invt=2&fid=f3&fields=f12%2Cf14%2Cf62%2Cf128%2Cf136%2Cf124%2Cf120%2Cf121&_=1743151586674&secid=1.600519&beg=1742832000&end=1743091200 HTTP/1.1" 200 0
+2025-03-28 16:46:26,843 - WARNING - 响应内容非JSON格式

@@ -1,0 +1,545 @@
+2025-03-28 17:39:18,922 - ERROR - 采集过程中断: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001104bf568 chromedriver + 6088040
+1   chromedriver                        0x00000001104b717a chromedriver + 6054266
+2   chromedriver                        0x000000010ff56540 chromedriver + 415040
+3   chromedriver                        0x000000010ffa80a0 chromedriver + 749728
+4   chromedriver                        0x000000010ffa82f1 chromedriver + 750321
+5   chromedriver                        0x000000010fff8764 chromedriver + 1079140
+6   chromedriver                        0x000000010ffce41d chromedriver + 906269
+7   chromedriver                        0x000000010fff5a19 chromedriver + 1067545
+8   chromedriver                        0x000000010ffce1c3 chromedriver + 905667
+9   chromedriver                        0x000000010ff9a05a chromedriver + 692314
+10  chromedriver                        0x000000010ff9b1b1 chromedriver + 696753
+11  chromedriver                        0x000000011047ec90 chromedriver + 5823632
+12  chromedriver                        0x0000000110482b44 chromedriver + 5839684
+13  chromedriver                        0x0000000110459e86 chromedriver + 5672582
+14  chromedriver                        0x000000011048353b chromedriver + 5842235
+15  chromedriver                        0x0000000110448824 chromedriver + 5601316
+16  chromedriver                        0x00000001104a5618 chromedriver + 5981720
+17  chromedriver                        0x00000001104a57df chromedriver + 5982175
+18  chromedriver                        0x00000001104b6d58 chromedriver + 6053208
+19  libsystem_pthread.dylib             0x00007ff8138fd18b _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff8138f8ae3 thread_start + 15
+
+2025-03-28 17:42:49,083 - ERROR - 采集过程中断: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000108ec1568 chromedriver + 6088040
+1   chromedriver                        0x0000000108eb917a chromedriver + 6054266
+2   chromedriver                        0x0000000108958540 chromedriver + 415040
+3   chromedriver                        0x00000001089aa0a0 chromedriver + 749728
+4   chromedriver                        0x00000001089aa2f1 chromedriver + 750321
+5   chromedriver                        0x00000001089fa764 chromedriver + 1079140
+6   chromedriver                        0x00000001089d041d chromedriver + 906269
+7   chromedriver                        0x00000001089f7a19 chromedriver + 1067545
+8   chromedriver                        0x00000001089d01c3 chromedriver + 905667
+9   chromedriver                        0x000000010899c05a chromedriver + 692314
+10  chromedriver                        0x000000010899d1b1 chromedriver + 696753
+11  chromedriver                        0x0000000108e80c90 chromedriver + 5823632
+12  chromedriver                        0x0000000108e84b44 chromedriver + 5839684
+13  chromedriver                        0x0000000108e5be86 chromedriver + 5672582
+14  chromedriver                        0x0000000108e8553b chromedriver + 5842235
+15  chromedriver                        0x0000000108e4a824 chromedriver + 5601316
+16  chromedriver                        0x0000000108ea7618 chromedriver + 5981720
+17  chromedriver                        0x0000000108ea77df chromedriver + 5982175
+18  chromedriver                        0x0000000108eb8d58 chromedriver + 6053208
+19  libsystem_pthread.dylib             0x00007ff8138fd18b _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff8138f8ae3 thread_start + 15
+
+2025-03-28 17:43:23,536 - ERROR - 采集过程中断: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001067c4568 chromedriver + 6088040
+1   chromedriver                        0x00000001067bc17a chromedriver + 6054266
+2   chromedriver                        0x000000010625b540 chromedriver + 415040
+3   chromedriver                        0x00000001062ad0a0 chromedriver + 749728
+4   chromedriver                        0x00000001062ad2f1 chromedriver + 750321
+5   chromedriver                        0x00000001062fd764 chromedriver + 1079140
+6   chromedriver                        0x00000001062d341d chromedriver + 906269
+7   chromedriver                        0x00000001062faa19 chromedriver + 1067545
+8   chromedriver                        0x00000001062d31c3 chromedriver + 905667
+9   chromedriver                        0x000000010629f05a chromedriver + 692314
+10  chromedriver                        0x00000001062a01b1 chromedriver + 696753
+11  chromedriver                        0x0000000106783c90 chromedriver + 5823632
+12  chromedriver                        0x0000000106787b44 chromedriver + 5839684
+13  chromedriver                        0x000000010675ee86 chromedriver + 5672582
+14  chromedriver                        0x000000010678853b chromedriver + 5842235
+15  chromedriver                        0x000000010674d824 chromedriver + 5601316
+16  chromedriver                        0x00000001067aa618 chromedriver + 5981720
+17  chromedriver                        0x00000001067aa7df chromedriver + 5982175
+18  chromedriver                        0x00000001067bbd58 chromedriver + 6053208
+19  libsystem_pthread.dylib             0x00007ff8138fd18b _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff8138f8ae3 thread_start + 15
+
+2025-03-28 17:45:30,340 - ERROR - 采集过程中断: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001079b4568 chromedriver + 6088040
+1   chromedriver                        0x00000001079ac17a chromedriver + 6054266
+2   chromedriver                        0x000000010744b540 chromedriver + 415040
+3   chromedriver                        0x000000010749d0a0 chromedriver + 749728
+4   chromedriver                        0x000000010749d2f1 chromedriver + 750321
+5   chromedriver                        0x00000001074ed764 chromedriver + 1079140
+6   chromedriver                        0x00000001074c341d chromedriver + 906269
+7   chromedriver                        0x00000001074eaa19 chromedriver + 1067545
+8   chromedriver                        0x00000001074c31c3 chromedriver + 905667
+9   chromedriver                        0x000000010748f05a chromedriver + 692314
+10  chromedriver                        0x00000001074901b1 chromedriver + 696753
+11  chromedriver                        0x0000000107973c90 chromedriver + 5823632
+12  chromedriver                        0x0000000107977b44 chromedriver + 5839684
+13  chromedriver                        0x000000010794ee86 chromedriver + 5672582
+14  chromedriver                        0x000000010797853b chromedriver + 5842235
+15  chromedriver                        0x000000010793d824 chromedriver + 5601316
+16  chromedriver                        0x000000010799a618 chromedriver + 5981720
+17  chromedriver                        0x000000010799a7df chromedriver + 5982175
+18  chromedriver                        0x00000001079abd58 chromedriver + 6053208
+19  libsystem_pthread.dylib             0x00007ff8138fd18b _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff8138f8ae3 thread_start + 15
+
+2025-03-28 18:02:40,305 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-28 18:02:40,306 - INFO - 爬虫定时任务已启动，每15分钟执行一次
+2025-03-28 18:02:40,307 - INFO - Added job "<lambda>" to job store "default"
+2025-03-28 18:02:40,307 - INFO - Scheduler started
+2025-03-28 18:27:55,176 - WARNING - Run time of job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 18:17:40 CST)" was missed by 0:10:14.869041
+2025-03-28 18:44:17,169 - WARNING - Run time of job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 18:47:40 CST)" was missed by 0:11:36.863744
+2025-03-28 18:47:40,308 - INFO - Running job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 19:02:40 CST)" (scheduled at 2025-03-28 18:47:40.305764+08:00)
+2025-03-28 18:47:52,671 - ERROR - Job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 19:02:40 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/apscheduler/executors/base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 143, in <lambda>
+    func=lambda: BrowserCrawler().get_comments(max_pages=3),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 61, in get_comments
+    last_id = self.redis.get(self.last_id_key) or '1533853127'  # 从Redis获取最后采集ID
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/commands/core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to localhost:6379. Connection refused.
+2025-03-28 19:02:40,309 - INFO - Running job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 19:17:40 CST)" (scheduled at 2025-03-28 19:02:40.305764+08:00)
+2025-03-28 19:02:42,284 - ERROR - Job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 19:17:40 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/apscheduler/executors/base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 143, in <lambda>
+    func=lambda: BrowserCrawler().get_comments(max_pages=3),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 61, in get_comments
+    last_id = self.redis.get(self.last_id_key) or '1533853127'  # 从Redis获取最后采集ID
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/commands/core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to localhost:6379. Connection refused.
+2025-03-28 19:17:40,370 - INFO - Running job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 19:32:40 CST)" (scheduled at 2025-03-28 19:17:40.305764+08:00)
+2025-03-28 19:17:41,575 - ERROR - Job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 19:32:40 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/apscheduler/executors/base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 143, in <lambda>
+    func=lambda: BrowserCrawler().get_comments(max_pages=3),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 61, in get_comments
+    last_id = self.redis.get(self.last_id_key) or '1533853127'  # 从Redis获取最后采集ID
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/commands/core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to localhost:6379. Connection refused.
+2025-03-28 19:32:40,310 - INFO - Running job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 19:47:40 CST)" (scheduled at 2025-03-28 19:32:40.305764+08:00)
+2025-03-28 19:32:41,931 - ERROR - Job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 19:47:40 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/apscheduler/executors/base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 143, in <lambda>
+    func=lambda: BrowserCrawler().get_comments(max_pages=3),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 61, in get_comments
+    last_id = self.redis.get(self.last_id_key) or '1533853127'  # 从Redis获取最后采集ID
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/commands/core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to localhost:6379. Connection refused.
+2025-03-28 19:47:40,307 - INFO - Running job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 20:02:40 CST)" (scheduled at 2025-03-28 19:47:40.305764+08:00)
+2025-03-28 19:47:41,553 - ERROR - Job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 20:02:40 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/apscheduler/executors/base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 143, in <lambda>
+    func=lambda: BrowserCrawler().get_comments(max_pages=3),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 61, in get_comments
+    last_id = self.redis.get(self.last_id_key) or '1533853127'  # 从Redis获取最后采集ID
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/commands/core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to localhost:6379. Connection refused.
+2025-03-28 20:02:40,307 - INFO - Running job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 20:17:40 CST)" (scheduled at 2025-03-28 20:02:40.305764+08:00)
+2025-03-28 20:03:27,544 - ERROR - Job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 20:17:40 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/apscheduler/executors/base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 143, in <lambda>
+    func=lambda: BrowserCrawler().get_comments(max_pages=3),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 61, in get_comments
+    last_id = self.redis.get(self.last_id_key) or '1533853127'  # 从Redis获取最后采集ID
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/commands/core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to localhost:6379. Connection refused.
+2025-03-28 20:17:40,329 - INFO - Running job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 20:32:40 CST)" (scheduled at 2025-03-28 20:17:40.305764+08:00)
+2025-03-28 20:17:41,360 - ERROR - Job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-28 20:32:40 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/apscheduler/executors/base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 143, in <lambda>
+    func=lambda: BrowserCrawler().get_comments(max_pages=3),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 61, in get_comments
+    last_id = self.redis.get(self.last_id_key) or '1533853127'  # 从Redis获取最后采集ID
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/commands/core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to localhost:6379. Connection refused.
+2025-03-29 03:56:56,616 - WARNING - Run time of job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-29 04:02:40 CST)" was missed by 0:09:16.309690
+2025-03-29 14:23:25,005 - WARNING - Run time of job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-29 14:32:40 CST)" was missed by 0:05:44.699256
+2025-03-29 14:32:40,306 - INFO - Running job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-29 14:47:40 CST)" (scheduled at 2025-03-29 14:32:40.305764+08:00)
+2025-03-29 14:32:46,594 - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2025-03-29 14:32:48,089 - ERROR - Job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-29 14:47:40 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/apscheduler/executors/base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 143, in <lambda>
+    func=lambda: BrowserCrawler().get_comments(max_pages=3),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 61, in get_comments
+    last_id = self.redis.get(self.last_id_key) or '1533853127'  # 从Redis获取最后采集ID
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/commands/core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to localhost:6379. Connection refused.
+2025-03-29 14:47:40,306 - INFO - Running job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-29 15:02:40 CST)" (scheduled at 2025-03-29 14:47:40.305764+08:00)
+2025-03-29 14:47:41,568 - ERROR - Job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-29 15:02:40 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/apscheduler/executors/base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 143, in <lambda>
+    func=lambda: BrowserCrawler().get_comments(max_pages=3),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 61, in get_comments
+    last_id = self.redis.get(self.last_id_key) or '1533853127'  # 从Redis获取最后采集ID
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/commands/core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to localhost:6379. Connection refused.
+2025-03-29 15:02:40,558 - INFO - Running job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-29 15:17:40 CST)" (scheduled at 2025-03-29 15:02:40.305764+08:00)
+2025-03-29 15:02:41,925 - ERROR - Job "<lambda> (trigger: interval[0:15:00], next run at: 2025-03-29 15:17:40 CST)" raised an exception
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 357, in connect
+    sock = self.retry.call_with_retry(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/retry.py", line 62, in call_with_retry
+    return do()
+           ^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 358, in <lambda>
+    lambda: self._connect(), lambda error: self.disconnect(error)
+            ^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 730, in _connect
+    raise err
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 718, in _connect
+    sock.connect(socket_address)
+ConnectionRefusedError: [Errno 61] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/apscheduler/executors/base.py", line 131, in run_job
+    retval = job.func(*job.args, **job.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 143, in <lambda>
+    func=lambda: BrowserCrawler().get_comments(max_pages=3),
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mac/Desktop/vscode/o1/eastmoney_guba_crawler.py", line 61, in get_comments
+    last_id = self.redis.get(self.last_id_key) or '1533853127'  # 从Redis获取最后采集ID
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/commands/core.py", line 1822, in get
+    return self.execute_command("GET", name, keys=[name])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 559, in execute_command
+    return self._execute_command(*args, **options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/client.py", line 565, in _execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 1422, in get_connection
+    connection.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/redis/connection.py", line 363, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to localhost:6379. Connection refused.
